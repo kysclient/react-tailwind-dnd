@@ -18,7 +18,7 @@
 
    ```bash
    git clone https://github.com/kysclient/react-tailwind-dnd.git
-   cd front_assignment
+   cd react-tailwind-dnd
    ```
 
 2. **필요한 패키지 설치**
